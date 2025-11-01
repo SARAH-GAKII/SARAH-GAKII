@@ -1,4 +1,4 @@
-# Sarah Gakii
+# Hi, I'm Sarah Gakii
 
 **Applied Mathematician | Data Analyst | AI and Modeling Specialist**
 
