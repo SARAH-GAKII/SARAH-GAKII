@@ -1,4 +1,4 @@
-# Hi, I'm Sarah Gakii
+# Hi, I'm Sarah G. Randol
 
 **Applied Mathematician | Data Analyst | AI and Modeling Specialist**
 
