@@ -24,7 +24,7 @@ My work involves both analytical modeling and data-driven insight generation, co
 | Project | Description | Tools |
 |----------|--------------|-------|
 | [**NFDM for PDEs**](http://rave.ohiolink.edu/etdc/view?acc_num=bgsu1750284991046446) | Developed a Newton–Finite Difference framework for nonlinear interface jump conditions in elliptic and parabolic PDEs. | MATLAB, Numerical Methods |
-| [**Excel Business Intelligence Dashboard**](https://github.com/SARAH-GAKII/Excel-Business-Intelligence-Dashboard-From-Raw-Data-to-Insight) | Built a data-driven dashboard to transform raw financial data into actionable business insights. | Excel, Power Query |
+| [**Excel Business Intelligence Dashboard**](https://github.com/SARAH-GAKII/Excel-Business-Intelligence-Dashboard-From-Raw-Data-to-Insight./tree/main) | Built a data-driven dashboard to transform raw financial data into actionable business insights. | Excel, Power Query |
 | [**Vaccine Uptake Model**](https://github.com/SARAH-GAKII/Modelling-the-impact-of-human-behaviour-to-COVID-19-vaccine-uptake) | Designed a game-theoretic model linking social behavior and vaccination decisions. | Python, Epidemiology, Game Theory |
 
 ---
