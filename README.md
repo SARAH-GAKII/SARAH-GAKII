@@ -23,6 +23,9 @@ My work involves both analytical modeling and data-driven insight generation, co
 
 | Project | Description | Tools |
 |----------|--------------|-------|
+| [**Ohio Housing Affordability Power BI Analysis (2019–2023)**](https://github.com/SARAH-GAKII/Ohio-Housing-Affordability-2019-2023-PowerBI-Project) | Analyzed county-level housing affordability trends across Ohio using ACS data, revealing regional disparities masked by statewide averages. | Power BI, DAX, Data Modeling |
+| [**FoodHub Customer & Business Analytics**](tba) | Selected graded assignments demonstrating data preprocessing, and analytical reasoning. | Python, Pandas, Seaborn, Numpy |
+| [**Power BI Guided Dashboard Project**](https://github.com/SARAH-GAKII/powerbi-guided-dashboard-project) | Completed a guided Power BI dashboard build focusing on data modeling, DAX measures, and interactive report design, following industry-standard BI workflows. | Power BI, DAX, Data Modeling |
 | [**NFDM for PDEs**](http://rave.ohiolink.edu/etdc/view?acc_num=bgsu1750284991046446) | Developed a Newton–Finite Difference framework for nonlinear interface jump conditions in elliptic and parabolic PDEs. | MATLAB, Numerical Methods |
 | [**Excel Business Intelligence Dashboard**](https://github.com/SARAH-GAKII/Excel-Business-Intelligence-Dashboard-From-Raw-Data-to-Insight./tree/main) | Built a data-driven dashboard to transform raw financial data into actionable business insights. | Excel, Power Query |
 | [**Vaccine Uptake Model**](https://github.com/SARAH-GAKII/Modelling-the-impact-of-human-behaviour-to-COVID-19-vaccine-uptake) | Designed a game-theoretic model linking social behavior and vaccination decisions. | Python, Epidemiology, Game Theory |
