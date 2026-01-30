@@ -23,6 +23,7 @@ My work involves both analytical modeling and data-driven insight generation, co
 
 | Project | Description | Tools |
 |----------|--------------|-------|
+| [**Ohio Energy Composition — Unsupervised Learning Analysis**](https://github.com/SARAH-GAKII/ohio-energy-composition-unsupervised-learning) | Applied unsupervised learning techniques to explore patterns in Ohio’s energy generation mix, using clustering and dimensionality reduction to identify structural similarities across energy sources. | Python, pandas, NumPy, scikit-learn, scikit-learn-extra, PCA, t-SNE, K-Means, K-Medoids, Hierarchical Clustering, GeoPandas, Matplotlib, Seaborn |
 | [**Ohio Housing Affordability Power BI Analysis (2019–2023)**](https://github.com/SARAH-GAKII/Ohio-Housing-Affordability-2019-2023-PowerBI-Project) | Analyzed county-level housing affordability trends across Ohio using ACS data, revealing regional disparities masked by statewide averages. | Power BI, DAX, Data Modeling |
 | [**FoodHub Customer & Business Analytics**](tba) | Selected graded assignments demonstrating data preprocessing, and analytical reasoning. | Python, Pandas, Seaborn, Numpy |
 | [**Power BI Guided Dashboard Project**](https://github.com/SARAH-GAKII/powerbi-guided-dashboard-project) | Completed a guided Power BI dashboard build focusing on data modeling, DAX measures, and interactive report design, following industry-standard BI workflows. | Power BI, DAX, Data Modeling |
