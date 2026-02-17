@@ -55,9 +55,6 @@ My work involves both analytical modeling and data-driven insight generation, co
 - **Excel Advanced Analytics Workshop – Bowling Green State University (2025)**  
   Advanced training in data visualization, reporting, and dynamic dashboard design.  
 
-- **Intuit Academy – Tax Preparation Level 1 (2025)**  
-  Training in U.S. federal individual tax return preparation, including filing status, taxable income, and credit computation.  
-
 ---
 
 ## Research and Academic Engagements
