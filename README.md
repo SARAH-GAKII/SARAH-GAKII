@@ -23,6 +23,7 @@ My work involves both analytical modeling and data-driven insight generation, co
 
 | Project | Description | Tools |
 |----------|--------------|-------|
+| [**Amazon Product Recommendation System**](https://github.com/SARAH-GAKII/amazon-product-recommendation-system) | Developed an end-to-end recommendation system using Amazon product reviews, implementing popularity-based and collaborative filtering approaches with SVD matrix factorization, and evaluating performance using ranking and prediction metrics. | Python, pandas, NumPy, scikit-learn, Surprise, Collaborative Filtering, Matrix Factorization (SVD), Precision@k, Recall@k, F1-score@k, RMSE, Matplotlib, Seaborn|
 | [**Ohio Energy Composition — Unsupervised Learning Analysis**](https://github.com/SARAH-GAKII/ohio-energy-composition-unsupervised-learning) | Applied unsupervised learning techniques to explore patterns in Ohio’s energy generation mix, using clustering and dimensionality reduction to identify structural similarities across energy sources. | Python, pandas, NumPy, scikit-learn, scikit-learn-extra, PCA, t-SNE, K-Means, K-Medoids, Hierarchical Clustering, GeoPandas, Matplotlib, Seaborn |
 | [**Ohio Housing Affordability Power BI Analysis (2019–2023)**](https://github.com/SARAH-GAKII/Ohio-Housing-Affordability-2019-2023-PowerBI-Project) | Analyzed county-level housing affordability trends across Ohio using ACS data, revealing regional disparities masked by statewide averages. | Power BI, DAX, Data Modeling |
 | [**FoodHub Customer & Business Analytics**](https://olympus.mygreatlearning.com/eportfolio) | Selected graded assignments demonstrating data preprocessing, and analytical reasoning. | Python, Pandas, Seaborn, Numpy |
@@ -31,45 +32,5 @@ My work involves both analytical modeling and data-driven insight generation, co
 | [**Excel Business Intelligence Dashboard**](https://github.com/SARAH-GAKII/Excel-Business-Intelligence-Dashboard-From-Raw-Data-to-Insight./tree/main) | Built a data-driven dashboard to transform raw financial data into actionable business insights. | Excel, Power Query |
 | [**Vaccine Uptake Model**](https://github.com/SARAH-GAKII/Modelling-the-impact-of-human-behaviour-to-COVID-19-vaccine-uptake) | Designed a game-theoretic model linking social behavior and vaccination decisions. | Python, Epidemiology, Game Theory |
 
----
-
-## Awards and Recognition
-
-- **James Robert & Gretchen Overman Graduate Scholarship** – BGSU (2024)  
-  Awarded for academic excellence. Featured in BGSU Mathematics and Statistics Department News (2023–2024).  
-
-- **Paul G. Allen Family Foundation Scholarship** – AIMS South Africa (2023)  
-  Recognized for academic distinction and research excellence on the project *“Modeling the Impact of Human Behaviour on COVID-19 Vaccine Uptake.”*
-
----
-
-## Professional Development and Certifications
-
-- **MIT Professional Education – Applied AI & Data Science Program (In progress)**  
-  A certificate program focusing on applied machine learning, data engineering, and AI-driven decision-making.  
-
-- **Active Learning Certificate Program – Bowling Green State University (2025)**  
-  Designed and presented an inclusive active-learning course module for undergraduate mathematics.  
-  [View verified badge](https://badgr.com/public/assertions/PT6lV0f6RPeM2ibQ4swgHA)
-
-- **Excel Advanced Analytics Workshop – Bowling Green State University (2025)**  
-  Advanced training in data visualization, reporting, and dynamic dashboard design.  
-
----
-
-## Research and Academic Engagements
-
-- **Mathematics in Industry Study Group (MISG 2023, South Africa)** – Modeled energy dynamics of green roofs using PDEs and collaborated with industry experts on determining fair visitor caps for tourism attractions.  
-- **African Mathematical Modeling Union (AMU 2023, Nairobi)** – Developed mathematical models for cooperative policing and crime dynamics.  
-- **Africa Scientifique Workshop (2023, AIMS South Africa)** – Designed a financial literacy outreach project integrating mathematics and community development.  
-- **Mfano Africa – Oxford Mentorship Program (2022)** – Conducted stochastic modeling on competing species.  
-
----
-
-## Community and Volunteer Work
-
-**Habitat for Humanity – Women Build (2025–Present)**  
-Supported residential construction projects focused on affordable housing.  
-Assisted in framing, siding installation, electrical preparation, and site coordination, combining technical precision with community service and structural awareness.  
 
 
