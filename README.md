@@ -1,21 +1,20 @@
 # Hi, I'm Sarah G. Randol
 
-**Applied Mathematician | Data Analyst | AI and Modeling Specialist**
+**Data Science | Applied Machine Learning, AI, & Statistical Modeling| Applied Mathematics**
 
-I am an applied mathematician and data professional passionate about connecting mathematical modeling, data analytics, and artificial intelligence to solve real-world problems.  
-I recently completed my M.A. in Applied Mathematics and Scientific Computation at Bowling Green State University (BGSU), where my research introduced a Newton–Finite Difference Method (NFDM) for solving elliptic and parabolic PDEs with nonlinear interface jump conditions.  
+I am a Data Scientist with a strong foundation in applied mathematics, focused on building data driven models that support real world decision making.
 
-My work involves both analytical modeling and data-driven insight generation, combining numerical precision with real-world applications in different fields.
+My work combines statistical modeling, machine learning, AI, and applied analytics. I approach problems by first understanding how data is generated, what assumptions are involved, and what questions the analysis is meant to answer, before selecting or training models. This perspective is shaped by rigorous mathematical training and hands on experience working end to end with real datasets.
 
 ---
 
-## Professional Summary
+## Professional Focus
 
-- **Mathematical & Computational Modeling** – PDEs, interface problems, scientific computing, MATLAB, and Python.  
-- **Data Analytics & Visualization** – Excel, Power BI, SQL, forecasting, KPI design, and decision dashboards.  
-- **AI Training & Machine Learning** – Data curation, model evaluation, and mathematical reasoning optimization.  
-- **Research & Technical Writing** – Academic publication, error analysis, and model validation.  
-- **Teaching & Mentorship** – Graduate Teaching Assistant and mentor.  
+- **Applied AI & Data Science** – Developing data-driven models and analytical workflows that extract meaningful insight from complex datasets.  
+- **Machine Learning & Statistical Analysis** – Applying machine learning and statistical techniques to uncover patterns, support predictions, and inform decisions.  
+- **Mathematical & Computational Modeling** – Designing and analyzing numerical methods, simulations, and mathematical models to study complex systems.  
+- **Data Analytics & Visualization** – Transforming raw data into interpretable insights through exploratory analysis, dashboards, and visual storytelling. 
+- **Scientific Computing & Numerical Methods** – Implementing computational techniques to solve mathematical models and engineering problems..  
 
 ---
 
@@ -32,5 +31,23 @@ My work involves both analytical modeling and data-driven insight generation, co
 | [**Excel Business Intelligence Dashboard**](https://github.com/SARAH-GAKII/Excel-Business-Intelligence-Dashboard-From-Raw-Data-to-Insight./tree/main) | Built a data-driven dashboard to transform raw financial data into actionable business insights. | Excel, Power Query |
 | [**Vaccine Uptake Model**](https://github.com/SARAH-GAKII/Modelling-the-impact-of-human-behaviour-to-COVID-19-vaccine-uptake) | Designed a game-theoretic model linking social behavior and vaccination decisions. | Python, Epidemiology, Game Theory |
 
+## Core Tools
+**Languages:** 
+- Python
+- Matlab
+- SQL
 
+**Data & Machine Learning**
+- Data Modeling
+- Supervised & Unsuperviced learning
+-  Model Formulation & Building
+-  Model Evaluation & Validation
+-  Visualization
+  - Matplotlib
+  - Seaborn
+  - PowerBI
+  - Excel
+ 
+
+    
 
