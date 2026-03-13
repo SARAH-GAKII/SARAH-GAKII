@@ -31,22 +31,6 @@ My work combines statistical modeling, machine learning, AI, and applied analyti
 | [**Excel Business Intelligence Dashboard**](https://github.com/SARAH-GAKII/Excel-Business-Intelligence-Dashboard-From-Raw-Data-to-Insight./tree/main) | Built a data-driven dashboard to transform raw financial data into actionable business insights. | Excel, Power Query |
 | [**Vaccine Uptake Model**](https://github.com/SARAH-GAKII/Modelling-the-impact-of-human-behaviour-to-COVID-19-vaccine-uptake) | Designed a game-theoretic model linking social behavior and vaccination decisions. | Python, Epidemiology, Game Theory |
 
-## Core Tools
-**Languages:** 
-- Python
-- Matlab
-- SQL
-
-**Data & Machine Learning**
-- Data Modeling
-- Supervised & Unsuperviced learning
--  Model Formulation & Building
--  Model Evaluation & Validation
--  Visualization
-  - Matplotlib
-  - Seaborn
-  - PowerBI
-  - Excel
  
 
     
